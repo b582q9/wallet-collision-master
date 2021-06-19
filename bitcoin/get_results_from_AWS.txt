@@ -1,0 +1,78 @@
+-------------------------start_to_end------------------------------------
+scp -i AWS_test_2.pem  ec2-user@ec2-3-122-228-197.eu-central-1.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/start_to_end/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-3-122-228-197.eu-central-1.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/start_to_end/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-3-122-228-197.eu-central-1.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/start_to_end/
+
+
+-------------------------end_to_start------------------------------------
+scp -i AWS_test_2.pem  ec2-user@ec2-18-193-106-60.eu-central-1.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/end_to_start/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-18-193-106-60.eu-central-1.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/end_to_start/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-18-193-106-60.eu-central-1.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/end_to_start/
+ 
+ 
+-------------------------middle_to_start------------------------------------
+scp -i AWS_test_2.pem  ec2-user@ec2-18-197-103-43.eu-central-1.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/middle_to_start/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-18-197-103-43.eu-central-1.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/middle_to_start/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-18-197-103-43.eu-central-1.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/middle_to_start/
+
+
+-------------------------middle_to_end------------------------------------
+scp -i AWS_test_2.pem  ec2-user@ec2-3-122-179-64.eu-central-1.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/middle_to_end/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-3-122-179-64.eu-central-1.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/middle_to_end/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-3-122-179-64.eu-central-1.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/middle_to_end/
+
+
+-------------------------random_1------------------------------------
+scp -i AWS_test_2.pem  ec2-user@ec2-3-127-152-89.eu-central-1.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_1/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-3-127-152-89.eu-central-1.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_1/
+
+scp -i AWS_test_2.pem  ec2-user@ec2-3-127-152-89.eu-central-1.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_1/
+
+
+-------------------------random_2------------------------------------
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-52-15-183-102.us-east-2.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_2/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-52-15-183-102.us-east-2.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_2/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-52-15-183-102.us-east-2.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_2/
+
+
+-------------------------random_3------------------------------------
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-21-122-134.us-east-2.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_3/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-21-122-134.us-east-2.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_3/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-21-122-134.us-east-2.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_3/
+
+
+-------------------------random_4------------------------------------
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-15-156-30.us-east-2.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_4/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-15-156-30.us-east-2.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_4/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-15-156-30.us-east-2.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_4/
+
+
+-------------------------random_5------------------------------------
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-18-219-177-89.us-east-2.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_5/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-18-219-177-89.us-east-2.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_5/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-18-219-177-89.us-east-2.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_5/
+
+
+-------------------------random_6------------------------------------
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-21-27-167.us-east-2.compute.amazonaws.com:/home/ec2-user/fund.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_6/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-21-27-167.us-east-2.compute.amazonaws.com:/home/ec2-user/found.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_6/
+
+scp -i AWS_Ohio_test_2.pem  ec2-user@ec2-3-21-27-167.us-east-2.compute.amazonaws.com:/home/ec2-user/start_page.txt /home/user0/Projects/Python/wallet-collision-master/bitcoin/random_6/
